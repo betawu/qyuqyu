@@ -4,6 +4,6 @@
 using namespace std;
 
 int main(int argc, char **argv) {
-  cout << "add(1, 2) = " << qyuqyu::add(1, 2) << endl;
+  cout << "abs(-3.0) = " << qyuqyu::sqrt(3.0) << endl;
   return 0;
 }
